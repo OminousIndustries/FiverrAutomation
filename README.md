@@ -17,6 +17,7 @@ your-project/
 ├── config.py
 ├── fiverr_pipeline_live.py
 ├── mesh_generator.py
+├── get_coords.py
 ├── omniparser_wrapper.py
 ├── cube/               ← clone of https://github.com/Roblox/cube
 └── OmniParser/         ← clone of https://github.com/microsoft/OmniParser
